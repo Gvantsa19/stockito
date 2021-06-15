@@ -1,0 +1,29 @@
+@media (max-width: 850px){
+    .wrapper, 
+    ul{
+      display: block;
+      text-align: center;
+    }   
+    .nav-a{
+      display: block;
+    }  
+    .logo {
+        margin-top: 10px;
+    }
+    .burger-icon{
+      color: #fff;
+      display: block;
+      font-size: 30px;
+      position: absolute;
+      top: 40px;
+      right: 30px;
+      cursor:pointer;
+      margin-top: 20px;
+    }
+    .menu-ul{
+      display: none;
+    }   
+    .menu-ul.open-menu{
+      display: block;
+    } 
+}
