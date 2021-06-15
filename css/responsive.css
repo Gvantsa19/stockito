@@ -27,3 +27,11 @@
       display: block;
     } 
 }
+@media (max-width: 850px){
+  .cupcoffee {
+    margin-top: 70px;
+  }
+  .photo-parag {
+    padding-top: 100px;
+  }
+}
