@@ -291,7 +291,8 @@ span {
     width: 100%;
 }
 .line {
-    width: 1475px;
+    max-width: 1475px;
+    width: 100%;
     height: 1px;
     background-color: white;
 }
