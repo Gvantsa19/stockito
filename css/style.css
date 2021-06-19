@@ -49,16 +49,12 @@ header {
     display: none;
 }
 .wrapper{
-    max-width: 1170px;
     width: 100%;
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
-    position: fixed;
-    z-index: 1;
-    margin-left: 20px;
     backdrop-filter: blur(8px);
 }
 a{
